@@ -3,9 +3,8 @@
 
 Group Project between Olaoye Emmanuel and Awokunle Oyinlola                        
 
-0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
-
- a Spur for life                                                                    
+0. I'm not going anywhere. You can print that wherever you want to. I'm here and 
+I'm a Spur for life                                                                    
 
 Write a function that produces output according to a format.                        
 
@@ -13,9 +12,8 @@ Write a function that produces output according to a format.
 
                                                                                    
 
-1. Education is when you read the fine print. Experience is what you get if you don'
-
-t                                                                                  
+1. Education is when you read the fine print. Experience is what you get if you 
+don't                                                                                  
 
 Handle the following conversion specifiers:
 
@@ -44,9 +42,8 @@ Handle the following custom conversion specifier:
 
                                                                                    
 
-6. How is the world ruled and led to war? Diplomats lie to journalists and believe t
-
-hese lies when they see them in print                                              
+6. How is the world ruled and led to war? Diplomats lie to journalists and believe 
+these lies when they see them in print                                              
 
 Handle the following conversion specifier: p.                                      
 
